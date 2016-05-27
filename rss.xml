@@ -4,7 +4,7 @@
         <description><![CDATA[The Caffeine Club]]></description>
         <link>https://thegrid.ai/the-caffeine-club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 18:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:39:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-caffeine-club/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Happy Happy Joy Joy, Amsterdam, Netherlands]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/happy-happy-joy-joy</link>
             <guid isPermaLink="false">36f5fb53-489e-4563-877a-d696a42a1f63</guid>
             <pubDate>Fri, 27 May 2016 18:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c58a945-5fc3-4e28-b17a-d90b3531e47f.tif">]]></description>
-            <link>https://thegrid.ai/the-caffeine-club/418bbcdf-dd16-4ab2-9d01-2365c8002500/index.html</link>
-            <guid isPermaLink="false">418bbcdf-dd16-4ab2-9d01-2365c8002500</guid>
-            <pubDate>Fri, 27 May 2016 18:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/the-caffeine-club/979dd99c-4b70-483c-b658-eb70c0f3d4c8/index.html</link>
             <guid isPermaLink="false">979dd99c-4b70-483c-b658-eb70c0f3d4c8</guid>
             <pubDate>Fri, 27 May 2016 18:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f780d4e8-3ab3-498e-adfa-927d0a90724e.jpg">]]></description>
+            <link>https://thegrid.ai/the-caffeine-club/a09c8735-c2c5-42a1-b0d6-dea00f66daea/index.html</link>
+            <guid isPermaLink="false">a09c8735-c2c5-42a1-b0d6-dea00f66daea</guid>
+            <pubDate>Fri, 27 May 2016 18:39:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
