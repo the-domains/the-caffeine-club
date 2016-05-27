@@ -4,7 +4,7 @@
         <description><![CDATA[The Caffeine Club]]></description>
         <link>https://thegrid.ai/the-caffeine-club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 18:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:40:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-caffeine-club/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Happy Happy Joy Joy, Amsterdam, Netherlands]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/happy-happy-joy-joy</link>
             <guid isPermaLink="false">36f5fb53-489e-4563-877a-d696a42a1f63</guid>
             <pubDate>Fri, 27 May 2016 18:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aad8661d-7012-49a5-8d69-841731d5c435.jpg">]]></description>
+            <link>https://thegrid.ai/the-caffeine-club/df46b55f-ff37-4b6c-90c6-4b7225840ecc/index.html</link>
+            <guid isPermaLink="false">df46b55f-ff37-4b6c-90c6-4b7225840ecc</guid>
+            <pubDate>Fri, 27 May 2016 18:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27dc0a29-90f8-4c2a-96fb-cb365d0316b0.jpg">]]></description>
+            <link>https://thegrid.ai/the-caffeine-club/a07c10bb-d513-4341-8a69-ae7063e1ea3e/index.html</link>
+            <guid isPermaLink="false">a07c10bb-d513-4341-8a69-ae7063e1ea3e</guid>
+            <pubDate>Fri, 27 May 2016 18:40:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/the-caffeine-club/ec3c2dfb-1e2c-4133-8e21-9f26e357fc55/index.html</link>
             <guid isPermaLink="false">ec3c2dfb-1e2c-4133-8e21-9f26e357fc55</guid>
             <pubDate>Fri, 27 May 2016 18:39:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4decfeda-d372-4062-bac0-392f848bbaea.jpg">]]></description>
-            <link>https://thegrid.ai/the-caffeine-club/28334620-3229-4503-b1fe-0bb96da503b7/index.html</link>
-            <guid isPermaLink="false">28334620-3229-4503-b1fe-0bb96da503b7</guid>
-            <pubDate>Fri, 27 May 2016 18:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f11f826-6f13-4e99-bec9-67b03ddfb479.jpg">]]></description>
-            <link>https://thegrid.ai/the-caffeine-club/f06b988c-0563-4a32-8a2c-fa2b6914ce86/index.html</link>
-            <guid isPermaLink="false">f06b988c-0563-4a32-8a2c-fa2b6914ce86</guid>
-            <pubDate>Fri, 27 May 2016 18:39:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
